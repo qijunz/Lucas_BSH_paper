@@ -1,0 +1,79 @@
+﻿,name,well_code,phylum,ATCC,DSM,Accession_number,JGI_name,ncbi_note,ncbi_ftp
+1,Akkermansia muciniphila BAA-835,A01,Verrucomicrobia,BAA-835,22959,NC_010655.1,Akkermansia muciniphila ATCC BAA-835,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/020/225/GCF_000020225.1_ASM2022v1/
+2,Alistipes indistinctus,A06,Bacteroidetes,,22520,NZ_ADLD01000000,Alistipes indistinctus YIT 12060,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/025/144/995/GCF_025144995.1_ASM2514499v1/
+3,Anaerobutyricum hallii (formerly Anaerobutyricum soehngenii),H08 or E12,Firmicute,27751,3353,PRJEB22345,Anaerobutyricum hallii DSM 3353,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/209/925/GCF_900209925.1_EH1/
+4,Anaerococcus hydrogenalis,D02,Firmicute,49630,7454,NZ_ABXA01000000,Anaerococcus hydrogenalis DSM 7454,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/173/355/GCF_000173355.1_ASM17335v1/
+5,Bacteroides caccae,D12,Bacteroidetes,43185,19024,PRJNA18163,Bacteroides caccae ATCC 43185,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/169/015/GCF_000169015.1_ASM16901v1/
+6,Bacteroides cellulosilyticus,G11,Bacteroidetes,,14838,GCA_000158035.1,Bacteroides cellulosilyticus DSM 14838,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/158/035/GCF_000158035.1_ASM15803v1/
+7,Bacteroides coprophilus,E05,Bacteroidetes,,18228,GCA_000157915.1,"Bacteroides coprophilus DSM 18228, JCM 13818",,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/157/915/GCF_000157915.1_ASM15791v1/
+8,Bacteroides dorei,F05,Bacteroidetes,,17855,GCA_000156075.1,Phocaeicola dorei DSM 17855,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/156/075/GCF_000156075.1_ASM15607v1/
+9,Bacteroides finegoldii,G04,Bacteroidetes,,17565,GCA_000156195.1,Bacteroides finegoldii DSM 17565,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/156/195/GCF_000156195.1_ASM15619v1/
+10,Bacteroides intestinalis,D03,Bacteroidetes,,17393,GCA_000172175.1,"Bacteroides intestinalis 341, DSM 17393",,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/172/175/GCF_000172175.1_ASM17217v1/
+11,Bacteroides ovatus,C01,Bacteroidetes,8483,,GCA_001314995.1,Bacteroides ovatus ATCC 8483,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/314/995/GCF_001314995.1_ASM131499v1/
+12,Bacteroides plebeius,B08,Bacteroidetes,,17135,GCA_000187895.1,"Bacteroides plebeius M12, DSM 17135",,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/187/895/GCF_000187895.1_ASM18789v1/
+13,Bacteroides stercoris,F04,Bacteroidetes,43183,,GCA_000154525.1,Bacteroides stercoris ATCC 43183,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/154/525/GCF_000154525.1_ASM15452v1/
+14,Bacteroides thetaiotaomicron 3731 (7330?),D08,Bacteroidetes,,,GCA_001049535.1,Bacteroides thetaiotaomicron 7330,same with VPI-5482,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/049/535/GCF_001049535.1_3731/
+15,Bacteroides thetaiotaomicron VPI-5482,F06,Bacteroidetes,29148,,GCA_000011065.1,Bacteroides thetaiotaomicron VPI-5482,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/011/065/GCF_000011065.1_ASM1106v1/
+16,Bacteroides uniformis,H06,Bacteroidetes,8492,,GCA_000154205.1,Bacteroides uniformis ATCC 8492,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/154/205/GCF_000154205.1_ASM15420v1/
+17,Bacteroides vulgatus,G01,Bacteroidetes,8482,,GCA_000012825.1,Bacteroides vulgatus ATCC 8482,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/012/825/GCF_000012825.1_ASM1282v1/
+18,Bacteroides xylanisolvens,A04,Bacteroidetes,,18836,GCA_000210075.1,Bacteroides xylanisolvens XB1A,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/210/075/GCF_000210075.1_ASM21007v1/
+19,Bifidobacterium adolescentis,G12,Actinobacteria,15703,,NC_008618.1,Bifidobacterium adolescentis ATCC 15703,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/010/425/GCF_000010425.1_ASM1042v1/
+20,Bifidobacterium angulatum,C09,Actinobacteria,27535,20098,NZ_AP012322.1,Bifidobacterium angulatum DSM 20098,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/025/155/GCF_001025155.1_ASM102515v1/
+21,Bifidobacterium bifidum,C10,Actinobacteria,29521,20456,NZ_AP012323.1,Bifidobacterium bifidum ATCC 29521,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/025/135/GCF_001025135.1_ASM102513v1/
+22,Bifidobacterium dentium,C04,Actinobacteria,27678,,GCA_000172135.1,Bifidobacterium dentium ATCC 27678,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/172/135/GCF_000172135.1_ASM17213v1/
+23,Bifidobacterium pseudocatenulatum,A08,Actinobacteria,27919,20583,NZ_AP012330.1,"Bifidobacterium pseudocatenulatum DSM 20438, JCM 1200, LMG 10505",,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/025/215/GCF_001025215.1_ASM102521v1/
+24,Blautia hansenii,B09,Firmicute,27752,,GCF_002222595.2,"Blautia hansenii VPI C7-24, DSM 20583",,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/222/595/GCF_002222595.2_ASM222259v2/
+25,Blautia luti,H02,Firmicute,,14534,GCA_009707925.1,Blautia sp. KLE 1732,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/707/925/GCF_009707925.1_ASM970792v1/
+26,Catenibacillus scindens CG19-1 (96% ID),1RE7,Firmicute,,,GCA_014202115,Catenibacillus scindens DSM 106146,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/014/202/115/GCF_014202115.1_ASM1420211v1/
+27,Citrobacter youngae,B03,Proteobacteria,29220,,GCA_000155975.1,Citrobacter youngae ATCC 29220,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/155/975/GCF_000155975.1_ASM15597v1/
+28,Lachnoclostridium bolteae (formerly Clostridium),D01,Firmicute,BAA-613,15670,GCA_002234575.2,Lachnoclostridium bolteae ATCC BAA-613,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/234/575/GCF_002234575.2_ASM223457v2/
+29,Hungatella hathewayi (formerly Clostridium),E04,Firmicute,,13479,GCA_000160095.1,Hungatella hathewayi DSM 13479,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/160/095/GCF_000160095.1_ASM16009v1/
+30,Lachnoclostridium hylemonae (formerly Clostridium),H10,Firmicute,,15053,GCA_008281175.1,Lachnoclostridium hylemonae DSM 15053,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/008/281/175/GCF_008281175.1_ASM828117v1/
+31,Clostridium leptum,B05,Firmicute,29065,753,GCA_000154345.1,Clostridium leptum DSM 753,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/154/345/GCF_000154345.1_ASM15434v1/
+32,Tyzzerella nexilis (formerly Clostridium nexile),E07,Firmicute,27757,1787,GCF_000156035.2,Tyzzerella nexilis DSM 1787,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/156/035/GCF_000156035.2_ASM15603v2/
+33,Flavonifractor plautii (formerly Clostridium orbscindens),G08,Firmicute,49531,6740,GCA_004345805.1,Flavonifractor plautii ATCC 29863,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/004/345/805/GCF_004345805.1_ASM434580v1/
+34,Erysipelatoclostridium ramosum,E10,Firmicute,25582,1402,GCA_000154485.1,Erysipelatoclostridium ramosum DSM 1402,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/154/485/GCF_000154485.1_ASM15448v1/
+35,Lachnoclostridium scindens*,Q4-D8,Firmicute,lab isolate,"*This strain was sequenced in 2021, but the strain with ATCC 35704 is what was used to build the phylogenetic tree.",PRJNA750754,Lachnoclostridium scindens ATCC 35704,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/019/597/925/GCF_019597925.1_ASM1959792v1/
+36,Clostridium sporogenes,A09,Firmicute,15579,,GCA_000155085.1,Clostridium sporogenes ATCC 15579,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/155/085/GCF_000155085.1_ASM15508v1/
+37,Lachnoclostridium symbiosum,F12,Firmicute,14940,934,GCA_000466485.1,Lachnoclostridium symbiosum ATCC 14940,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/466/485/GCF_000466485.1_ASM46648v1/
+38,Collinsella aerofaciens,H12,Actinobacteria,25986,3979,PRJNA18167,Collinsella aerofaciens ATCC 25986,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/169/035/GCF_000169035.1_ASM16903v1/
+39,Collinsella intestinalis,E02,Actinobacteria,,13280,GCA_000156175.1,Collinsella intestinalis DSM 13280,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/156/175/GCF_000156175.1_ASM15617v1/
+40,Collinsella stercoris,B12,Actinobacteria,,13279,GCA_000156215.1,Collinsella stercoris DSM 13279,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/156/215/GCF_000156215.1_ASM15621v1/
+41,Coprococcus comes,E08,Firmicute,27758,,GCA_000155875.1,Coprococcus comes ATCC 27758,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/155/875/GCF_000155875.1_ASM15587v1/
+42,Dorea formicigenerans,C08,Firmicute,27755,3992,GCA_000169235.1,Dorea formicigenerans ATCC 27755,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/169/235/GCF_000169235.1_ASM16923v1/
+43,Dorea longicatena,E03,Firmicute,,13814,GCA_000154065.1,Dorea longicatena DSM 13814,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/154/065/GCF_000154065.1_ASM15406v1/
+44,Escherichia coli ms200-1,M01,Proteobacteria,,,GCF_000164535.1,Escherichia coli MS 200-1,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/164/535/GCF_000164535.1_ASM16453v1/
+45,Edwardsiella tarda,H09,Proteobacteria,23685,,GCA_000163955.1,Edwardsiella tarda ATCC 23685,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/163/955/GCF_000163955.1_ASM16395v1/
+46,Eisenbergella tayi,J02,Proteobacteria,,,,Eisenbergiella tayi DSM 26961,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/717/125/GCF_001717125.1_ASM171712v1/
+47,Enterobacter cancerogenus,B07,Proteobacteria,35316,,GCA_000155995.1,Enterobacter cancerogenus ATCC 35316,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/155/995/GCF_000155995.1_ASM15599v1/
+48,Enterococcus faecium,K01,Firmicute,lab isolate,,,Enterococcus faecium P1140,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/734/005/GCF_009734005.1_ASM973400v2/
+49,Enterococcus lactis,J01,Firmicute,lab isolate,,,Enterococcus lactis DSM 23655,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/019/343/125/GCF_019343125.1_ASM1934312v1/
+50,Escherichia fergusonii,D06,Proteobacteria,35469,13698,GCA_000026225.1,"Escherichia fergusonii UMN026, ATCC 35469",,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/026/225/GCF_000026225.1_ASM2622v1/
+51,Holdemanella biformis (formerly Eubacterium biforme),H05,Firmicute,27806,3989,GCA_000156655.1,Holdemanella biformis DSM 3989,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/156/655/GCF_000156655.1_ASM15665v1/
+52,Eubacterium eligens,A11,Firmicute,27750,3376,GCA_000146185.1,Eubacterium eligens ATCC 27750,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/146/185/GCF_000146185.1_ASM14618v1/
+53,Eubacterium ramulus,L01,Firmicute,29099,15684,GCA_000469345.1,"Eubacterium ramulus VPI C6-27, ATCC 29099",,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/469/345/GCF_000469345.1_ASM46934v1/
+54,Eubacterium rectale,C05,Firmicute,33656,,NC_012781.1,Eubacterium rectale ATCC 33656,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/020/605/GCF_000020605.1_ASM2060v1/
+55,Fusobacterium varium,A03,Fusobacterium,8501,19868,NZ_LR134390.1,Fusobacterium varium ATCC 27725,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/637/705/GCF_900637705.1_52451_E01/
+56,Holdemania filiformis,H05,Firmicute,27806,3989,GCA_000157995.1,"Holdemania filiformis VPI J1-31B-1, DSM 12042",,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/157/995/GCF_000157995.1_ASM15799v1/
+57,Limosilactobacillus reuteri (formerly Lactobacillus reuteri),G06,Firmicute,,20016,GCF_000016825.1,Limosilactobacillus reuteri MM4-1A,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/016/825/GCF_000016825.1_ASM1682v1/
+58,Ligilactobacillus ruminis (formerly Lactobacillus ruminis),A12,Firmicute,27780,20403,GCA_001008755.1,Ligilactobacillus ruminis ATCC 27780,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/008/755/GCF_001008755.1_ASM100875v1/
+59,Marvinbryantia formatexigens,C11,Firmicute,,14469,GCA_000173815.1,Marvinbryantia formatexigens I-52,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/173/815/GCF_000173815.1_ASM17381v1/
+60,Megamonas funiformis,C12,Firmicute,,19343,GCA_010669225.1,Megamonas funiformis YIT 11815,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/010/669/225/GCF_010669225.1_ASM1066922v1/
+61,Mitsuokella multacida,G05,Firmicute,27723,20544,GCA_000155955.1,Mitsuokella multacida DSM 20544,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/155/955/GCF_000155955.1_ASM15595v1/
+62,Parabacteroides distasonis,D07,Bacteroidetes,8503,20701,NC_009615.1,Parabacteroides distasonis ATCC 8503,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/012/845/GCF_000012845.1_ASM1284v1/
+63,Parabacteroides johnsonii,C03,Bacteroidetes,,18315,GCA_000156495.1,Parabacteroides johnsonii DSM 18315,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/156/495/GCF_000156495.1_ASM15649v1/
+64,Parabacteroides merdae,B02,Bacteroidetes,43184,19495,GCA_000154105.1,Parabacteroides merdae ATCC 43184,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/154/105/GCF_000154105.1_ASM15410v1/
+65,Proteus mirabilis,K02,Proteobacteria,lab isolate,,,Proteus mirabilis GED7834,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/755/485/GCF_000755485.1_ASM75548v1/
+66,Proteus penneri,D11,Proteobacteria,35198,,GCA_000155835.1,Proteus penneri ATCC 35198,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/155/835/GCF_000155835.1_ASM15583v1/
+67,Providencia rettgeri,E09,Proteobacteria,,1131,GCA_000158055.1,Providencia rettgeri DSM 1131,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/158/055/GCF_000158055.1_ASM15805v1/
+68,Providencia stuartii R4-81,B04,Proteobacteria,25827,,GCA_000154865.1,Providencia stuartii ATCC 25827,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/154/865/GCF_000154865.1_ASM15486v1/
+69,Roseburia intestinalis,G02,Firmicute,,14610,NZ_LR027880.1,Roseburia intestinalis L1-82,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/537/995/GCF_900537995.1_Roseburia_intestinalis_strain_L1-82/
+70,Ruminococcus gnavus GM2/1,F08,Firmicute,AY305315,,PRJNA19927,Ruminococcus sp. SR1/5,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/831/375/GCF_009831375.1_ASM983137v1/
+71,Blautia hydrogenotrophica (formerly Ruminoccocus),F02,Firmicute,,10507,GCA_000157995.1,Blautia hydrogenotrophica DSM 10507,Acc number wrong,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/157/975/GCF_000157975.1_ASM15797v1/
+72,Mediterraneibacter lactaris (formerly Ruminococcus lactaris),F09,Firmicute,29176,,GCA_000155205.1,Mediterraneibacter lactaris ATCC 29176,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/155/205/GCF_000155205.1_ASM15520v1/
+73,Ruminococcus torques,A02,Firmicute,27756,,GCA_000153925.1,Ruminococcus torques ATCC 27756,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/153/925/GCF_000153925.1_ASM15392v1/
+74,Streptococcus anginosis,L02,Firmicute,lab isolate,,,Streptococcus anginosus F0211,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/412/635/GCF_001412635.1_ASM141263v1/
+75,Streptococcus infantarius,E06,Firmicute,BAA-102,,GCA_000154985.1,Streptococcus infantarius infantarius ATCC BAA-102,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/154/985/GCF_000154985.1_ASM15498v1/
+76,Subdoligranulum variabile,H01,Firmicute,,15176,GCA_000157955.1,Subdoligranulum variabile DSM 15176,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/157/955/GCF_000157955.1_ASM15795v1/
+77,Turicibacter sanguinis,I03,Firmicute,,14220,GCA_004338625.1,Turicibacter sanguinis PC909,suppressed,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/013/046/825/GCF_013046825.1_ASM1304682v1/
+78,Victivallis vadensis,A07,Lentisphaerae,BAA-548,14823,GCA_003096415.1,Victivallis vadensis DSM 14823,,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/096/415/GCF_003096415.1_ASM309641v1/
